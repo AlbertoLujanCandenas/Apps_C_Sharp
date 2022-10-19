@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmExTLnz5SVrp//46HfQcTdjgIGX3eElHLduGllOGW/Ipaen7x0hsEhiAGwpsdNZKhZSzEwU+nCWbUO+Jw+BUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alber\\OneDrive\\CFGS DAM\\2 DAM\\DI Desarrollo De Interfaces\\Tema 7\\Poryectos Visual Studio Blend\\WpfAppBlend\\WpfAppBlend\\WpfAppBlend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.37\\microsoft.xaml.behaviors.wpf.1.1.37.nupkg.sha512"
+  ],
+  "logs": []
+}
