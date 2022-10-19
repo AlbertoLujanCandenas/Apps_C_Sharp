@@ -1,0 +1,44 @@
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.exe
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.deps.json
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.runtimeconfig.json
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.runtimeconfig.dev.json
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.dll
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.pdb
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.csproj.AssemblyReference.cache
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON_MarkupCompile.cache
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON_MarkupCompile.lref
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.g.resources
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.AssemblyInfoInputs.cache
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.AssemblyInfo.cs
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.csproj.CoreCompileInputs.cache
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.dll
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.pdb
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.genruntimeconfig.cache
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mocej\Desktop\Clases\DAM2\DI\Capitulo8\JSON\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.csproj.CopyComplete
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.exe
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.deps.json
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.runtimeconfig.json
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.runtimeconfig.dev.json
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\wpfTiempoJSON.pdb
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON_MarkupCompile.cache
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON_MarkupCompile.lref
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.g.resources
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.AssemblyInfo.cs
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.csproj.CopyComplete
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.pdb
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\2 EVALUACION\wpfTiempoJSON\wpfTiempoJSON\obj\Debug\netcoreapp3.1\wpfTiempoJSON.genruntimeconfig.cache
