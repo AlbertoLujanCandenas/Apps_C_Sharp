@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<listatelefonos>
+    <persona>
+        <foto>foto.jpg</foto>
+        <nombre>Persona 01</nombre>
+        <direccion>Direccion 01</direccion>
+        <telefono>Telefono 01</telefono>
+        <es_movil>True</es_movil>
+      
+  </persona>
+    <persona>
+        <foto>foto.jpg</foto>
+        <nombre>Persona 02</nombre>
+        <direccion>Direccion 02</direccion>
+        <telefono>Telefono 02</telefono>
+        <es_movil>False</es_movil>
+      
+  </persona>
+    <persona>
+        <foto>simpson.png</foto>
+        <nombre>Persona 03</nombre>
+        <direccion>Direccion 03</direccion>
+        <telefono>Telefono 03</telefono>
+        <es_movil>False</es_movil>
+      
+  </persona>
+</listatelefonos> 

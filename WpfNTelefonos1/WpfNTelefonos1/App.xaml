@@ -1,0 +1,10 @@
+﻿<Application x:Class="WpfNTelefonos1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfNTelefonos1"
+             StartupUri="View\MainWindow.xaml">
+    <Application.Resources>
+        <!--Indicamos donde está el recurso XML para despues parsearlo-->
+        <XmlDataProvider x:Key="xmlTelefonos" Source="Data/Telefonos.xml" ></XmlDataProvider>
+    </Application.Resources>
+</Application>

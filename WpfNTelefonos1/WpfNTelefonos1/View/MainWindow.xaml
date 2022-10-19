@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfNTelefonos1.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfNTelefonos1.View"
+        
+        xmlns:converter="clr-namespace:WpfNTelefonos1.Converter"
+        
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <DataTemplate x:Key="ListBoxItemTemplate1">
+            <Grid>
+                <TextBlock Text="{Binding XPath=nombre}"/>
+            </Grid>
+        </DataTemplate>
+
+        <converter:NombreImagenConverter x:Key="converter"/>
+        
+    </Window.Resources>
+    
+    <Grid DataContext="{Binding Mode=OneWay, Source={StaticResource xmlTelefonos}}">
+        <ListBox ItemTemplate="{DynamicResource ListBoxItemTemplate1}" x:Name="listPersonas" HorizontalAlignment="Left" Height="389" Margin="21,35,0,0" VerticalAlignment="Top" Width="286" ItemsSource="{Binding XPath=/listatelefonos/persona}" />
+        <Label Content="Listado de Personas:" HorizontalAlignment="Left" Margin="21,4,0,0" VerticalAlignment="Top" Width="286"/>
+        <Grid HorizontalAlignment="Left" Height="389" Margin="312,35,0,0" VerticalAlignment="Top" Width="478" DataContext="{Binding SelectedItem, ElementName=listPersonas}" >
+            <TextBlock HorizontalAlignment="Left" Height="50" Margin="22,10,0,0" Text="{Binding XPath=nombre}" TextWrapping="Wrap" VerticalAlignment="Top" Width="304"/>
+            <TextBlock HorizontalAlignment="Left" Height="50" Margin="22,104,0,0" Text="{Binding XPath=telefono}" TextWrapping="Wrap" VerticalAlignment="Top" Width="304"/>
+            <TextBlock HorizontalAlignment="Center" Height="50" Margin="0,205,0,0" Text="{Binding XPath=es_movil}" TextWrapping="Wrap" VerticalAlignment="Top" Width="434"/>
+            <TextBlock HorizontalAlignment="Center" Height="50" Margin="0,316,0,0" Text="{Binding XPath=direccion}" TextWrapping="Wrap" VerticalAlignment="Top" Width="434"/>
+            <Image HorizontalAlignment="Left" Height="100" Margin="357,22,0,0" VerticalAlignment="Top" Width="100" Source="{Binding XPath=foto, Converter={StaticResource converter}}" />
+        </Grid>
+    </Grid>
+</Window>

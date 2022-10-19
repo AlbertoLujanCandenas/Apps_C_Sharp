@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\foto.jpg" />
+    <None Remove="Assets\simpson.png" />
+    <None Remove="Data\Telefonos.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Viewmodel\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\foto.jpg" />
+    <Resource Include="Assets\simpson.png" />
+    <Resource Include="Data\Telefonos.xml" />
+  </ItemGroup>
+
+</Project>
