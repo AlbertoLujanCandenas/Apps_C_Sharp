@@ -1,0 +1,128 @@
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.exe
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.deps.json
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.runtimeconfig.json
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.runtimeconfig.dev.json
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.pdb
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM_MarkupCompile.cache
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM_MarkupCompile.lref
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.g.resources
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.AssemblyInfo.cs
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.pdb
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.genruntimeconfig.cache
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\Views\Window1.g.cs
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\Views\Window1.baml
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rober\Desktop\2ºDAM\DI\1ºEvaluacion\cap8\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.csproj.CopyComplete
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.exe
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.deps.json
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.runtimeconfig.json
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.runtimeconfig.dev.json
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.pdb
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\Views\Window1.g.cs
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM_MarkupCompile.cache
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM_MarkupCompile.lref
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\Views\Window1.baml
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.g.resources
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.AssemblyInfo.cs
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.dll
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.pdb
+C:\Users\alber\Desktop\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.genruntimeconfig.cache
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.exe
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.deps.json
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.runtimeconfig.json
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.runtimeconfig.dev.json
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.pdb
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\Views\Window1.g.cs
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM_MarkupCompile.cache
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM_MarkupCompile.lref
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\Views\Window1.baml
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.g.resources
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.AssemblyInfo.cs
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.dll
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.pdb
+C:\Users\alber\OneDrive\CFGS DAM\2 DAM\DI Desarrollo De Interfaces\Tema 8\Proyectos Visual Studio\ApliWPFDatosLibrosMVVM\ApliWPFDatosLibrosMVVM\obj\Debug\netcoreapp3.1\ApliWPFDatosLibrosMVVM.genruntimeconfig.cache
